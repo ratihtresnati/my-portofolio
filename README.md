@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nuguya7
-- 👀 I’m interested in genshin & day6 lmao
-- 🌱 I’m currently learning in coding but the language i want to study is ...
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ratih Tresnati
+- 👀 I’m a learner who interested in coding
+- 🌱 I’m still on a progress to be a pro
+- 💞️ I’m looking to friends, hello there!
+- 📫 Please take care of me <3
 
 <!---
 nuguya7/nuguya7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
